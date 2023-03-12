@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e57f8e4a.css",
-    "main.js": "/static/js/main.8b60b46b.js",
-    "static/js/787.30e47586.chunk.js": "/static/js/787.30e47586.chunk.js",
-    "static/media/product_2.png": "/static/media/product_2.1bc52f8922d488cead68.png",
-    "static/media/product_3.png": "/static/media/product_3.48eda5293a6f605e73f7.png",
-    "static/media/product_4.png": "/static/media/product_4.6d83c6007d5109b357a8.png",
-    "static/media/product_1.png": "/static/media/product_1.b24c110a233df54143c8.png",
-    "static/media/product_5.png": "/static/media/product_5.b963def7555b7544d220.png",
-    "static/media/banner1.jpg": "/static/media/banner1.4a22881c941f7b645fa8.jpg",
-    "index.html": "/index.html",
-    "main.e57f8e4a.css.map": "/static/css/main.e57f8e4a.css.map",
-    "main.8b60b46b.js.map": "/static/js/main.8b60b46b.js.map",
-    "787.30e47586.chunk.js.map": "/static/js/787.30e47586.chunk.js.map"
+    "main.css": "/thegioididong.github.io%20/static/css/main.e57f8e4a.css",
+    "main.js": "/thegioididong.github.io%20/static/js/main.8d76f324.js",
+    "static/js/787.30e47586.chunk.js": "/thegioididong.github.io%20/static/js/787.30e47586.chunk.js",
+    "static/media/product_2.png": "/thegioididong.github.io%20/static/media/product_2.1bc52f8922d488cead68.png",
+    "static/media/product_3.png": "/thegioididong.github.io%20/static/media/product_3.48eda5293a6f605e73f7.png",
+    "static/media/product_4.png": "/thegioididong.github.io%20/static/media/product_4.6d83c6007d5109b357a8.png",
+    "static/media/product_1.png": "/thegioididong.github.io%20/static/media/product_1.b24c110a233df54143c8.png",
+    "static/media/product_5.png": "/thegioididong.github.io%20/static/media/product_5.b963def7555b7544d220.png",
+    "static/media/banner1.jpg": "/thegioididong.github.io%20/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "index.html": "/thegioididong.github.io%20/index.html",
+    "main.e57f8e4a.css.map": "/thegioididong.github.io%20/static/css/main.e57f8e4a.css.map",
+    "main.8d76f324.js.map": "/thegioididong.github.io%20/static/js/main.8d76f324.js.map",
+    "787.30e47586.chunk.js.map": "/thegioididong.github.io%20/static/js/787.30e47586.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e57f8e4a.css",
-    "static/js/main.8b60b46b.js"
+    "static/js/main.8d76f324.js"
   ]
 }
