@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/anhvn88/thegioididong.io/static/css/main.e57f8e4a.css",
+    "main.js": "/anhvn88/thegioididong.io/static/js/main.7c5dd17c.js",
+    "static/js/787.30e47586.chunk.js": "/anhvn88/thegioididong.io/static/js/787.30e47586.chunk.js",
+    "static/media/product_2.png": "/anhvn88/thegioididong.io/static/media/product_2.1bc52f8922d488cead68.png",
+    "static/media/product_3.png": "/anhvn88/thegioididong.io/static/media/product_3.48eda5293a6f605e73f7.png",
+    "static/media/product_4.png": "/anhvn88/thegioididong.io/static/media/product_4.6d83c6007d5109b357a8.png",
+    "static/media/product_1.png": "/anhvn88/thegioididong.io/static/media/product_1.b24c110a233df54143c8.png",
+    "static/media/product_5.png": "/anhvn88/thegioididong.io/static/media/product_5.b963def7555b7544d220.png",
+    "static/media/banner1.jpg": "/anhvn88/thegioididong.io/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "index.html": "/anhvn88/thegioididong.io/index.html",
+    "main.e57f8e4a.css.map": "/anhvn88/thegioididong.io/static/css/main.e57f8e4a.css.map",
+    "main.7c5dd17c.js.map": "/anhvn88/thegioididong.io/static/js/main.7c5dd17c.js.map",
+    "787.30e47586.chunk.js.map": "/anhvn88/thegioididong.io/static/js/787.30e47586.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e57f8e4a.css",
+    "static/js/main.7c5dd17c.js"
+  ]
+}
